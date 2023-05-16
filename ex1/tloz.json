@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "name": "Ocarina of time",
+      "date": "11 décembre 1998",
+      "Producer": "Shigeru Miyamoto",
+      "platforms": ["Nintendo 64", "GameCube", "Wii", "Wii U", "Nintendo 3DS", "Switch"]
+    },
+    {
+      "name": "Wind Waker",
+      "date": "3 mai 2003",
+      "Producer": "Shigeru Miyamoto & Takashi Tezuka",
+      "platforms": ["GameCube", "Wii U"]
+    },
+    {
+      "name": "Twilight Princess",
+      "date": "8 décembre 2006",
+      "Producer": "Shigeru Miyamoto",
+      "platforms": ["GameCube", "Wii", "Wii U"]
+    },
+    {
+      "name": "Breath of the wild",
+      "date": "3 mars 2017",
+      "Producer": "Eiji Aonuma",
+      "platforms": ["Wii U", "Switch"]
+    }
+  ]
+}
